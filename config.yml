@@ -13,6 +13,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
+defaultContentLanguage: pl
 
 minify:
   disableXML: true
@@ -32,62 +33,64 @@ languages:
       series: series
     menu:
       main:
-        - name: About
-          url: about
+        - name: O mnie
+          url: omnie
           weight: 1
-        - name: Archive
-          url: archives
+        - name: Blog
+          url: archives/
           weight: 2
-        - name: Search
+        - name: Szukaj
           url: search/
           weight: 2
-        - name: Tags
+        - name: Tagi
           url: tags/
           weight: 4
-        - name: "Docs (Wiki)"
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+#        - name: "Docs (Wiki)"
+#         url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   en:
     languageName: "English"
     weight: 2
-    title: PaperModL2
+    title: PaperModEN
     taxonomies:
-      category: ENcategories
-      tag: ENtags
-      series: ENseries
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
-        - name: Archive
+        - name: About
+          url: about/
+        - name: Blog
           url: archives/
           weight: 5
-        - name: ENTags
-          url: entags
+        - name: Tags
+          url: tags
           weight: 10
-        - name: ENCATEGORIES
-          url: encategories
+        - name: Categories
+          url: categories/
           weight: 10
-        - name: ENSeries
-          url: enseries
+        - name: Series
+          url: series/
           weight: 10
-        - name: External
-          url: "https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode"
+#        - name: External
+#          url: "https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode"
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      languageAltTitle: English
-      profileMode:
-        enabled: true
-        title: PaperMod
-        imageUrl: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&h=200"
-        imageTitle: ProfileMode image
-        # imageWidth: 120
-        # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-        buttons:
-          - name: Blog
-            url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+#    params:
+#      languageAltTitle: English
+#      profileMode:
+#        enabled: true
+#        title: PaperMod
+#        imageUrl: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&h=200"
+#        imageTitle: ProfileMode image
+#        # imageWidth: 120
+#        # imageHeight: 120
+#        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+#        buttons:
+#          - name: Blog
+#            url: posts
+#          - name: Profile Mode
+#            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
 outputFormats:
   llms:
@@ -146,7 +149,6 @@ params:
       - Explore the [Docs (Wiki)](https://github.com/adityatelange/hugo-PaperMod/wiki/) to learn more about features and configuration.
       - Support the project on [GitHub](https://github.com/adityatelange/hugo-PaperMod) and share it with others who love minimalistic designs.
       - PaperMod is inspired by the [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3) theme.
-
   socialIcons:
     - name: github
       title: View Source on Github

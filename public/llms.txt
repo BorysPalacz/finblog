@@ -1,12 +1,10 @@
-# PaperModL2
-- [About](//localhost:1313/about/)
+# PaperMod
+- [O mnie](//localhost:1313/omnie/)
 
 ## Posts
 - [Markdown Syntax Guide](//localhost:1313/posts/markdown-syntax/)
 - [Code Syntax Guide](//localhost:1313/posts/code_syntax/)
 - [Audio and Video](//localhost:1313/posts/audio-video/)
-- [Markdown Syntax Guide For L2](//localhost:1313/posts/markdown-syntax.fr/)
-- [Markdown Syntax Guide For RTL](//localhost:1313/posts/markdown-syntax.fa/)
 - [Rich Content and Shortcodes](//localhost:1313/posts/rich-content/)
 - [Math Typesetting](//localhost:1313/posts/math-typesetting/)
 - [Emoji Support](//localhost:1313/posts/emoji-support/)
