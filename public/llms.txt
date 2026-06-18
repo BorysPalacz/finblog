@@ -1,4 +1,4 @@
-# PaperMod
+# Borilab
 - [O mnie](//localhost:1313/omnie/)
 
 ## Posts

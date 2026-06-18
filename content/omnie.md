@@ -1,15 +1,19 @@
 ---
 title: "O mnie"
 date: 2026-05-09T12:00:00+05:30
-description: "A fast, clean, and responsive Hugo theme designed for bloggers and content creators."
-author: ["Aditya Telange"]
+## description: "."
+author: ["Borys Palacz"]
 draft: false
 hiddenInRss: true
 disableShare: true
 ShowBreadcrumbs: false
 ---
 
-PaperMod is a fast, clean, and responsive Hugo theme designed for bloggers and content creators. It offers a modern design with a focus on readability and performance, making it an excellent choice for personal blogs, portfolios, and documentation sites.
+# Kilka zdań 💥
+
+Zapraszam Cię do mojego "laboratorium'. Na codzień rozwijam się jako inżynier mechnanik natomiast po godzinach tonę w finansowym świecie. Moje wpisy dotyczą głównie zmagań z rynkiem, czasem jednak znajdziecie coś innego totalnie nieszablonowego. W 2026 chwilowo wyszedłem z rynków przeznaczając kapitał na cele mieszkaniowe. Jako beneficient pocovidowej hossy postanowiłem cześć środków przeznaczyć na finansowy rozwój. W maju 2026 osiągnąłem pierwszy mały krok na finansowej drodze i zostałem Maklerem Papierów Wartościowych numer licencji KNF - 3967. Nie ujawniam co mam aktualnie w portfelu i w jakich ilościach. Przeważnie wpisy dotyczą, szybkich ruchów giełdowych i tego co już jest historią.
+
+---
 
 > Based on [hugo-paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3), with additional features and customization options.
 

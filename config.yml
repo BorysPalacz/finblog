@@ -1,8 +1,8 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 # baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
-title: PaperMod
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+title: Borilab
+copyright: "© [Borys Palacz](https://github.com/boryspalacz)"
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -21,7 +21,7 @@ minify:
 
 pagination:
   disableAliases: false
-  pagerSize: 3
+  pagerSize: 5
 
 languages:
   pl:
@@ -34,24 +34,33 @@ languages:
     menu:
       main:
         - name: O mnie
-          url: omnie
+          url: omnie/
           weight: 1
         - name: Blog
-          url: archives/
+          url: blog/
           weight: 2
         - name: Szukaj
-          url: search/
+          url:  Szukaj/
           weight: 2
         - name: Tagi
-          url: tags/
+          url: tagi/
           weight: 4
 #        - name: "Docs (Wiki)"
 #         url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+    params:
+      description: "Borilab – finansowe laboratorium."
+      homeInfoParams:
+#        Title: "PaperMod PL"
+        Content: |
+          Cześć, jestem Borys i zapraszam Cię do mojego finansowego "laboratorium", więcej info znajdziesz w zakładce [o mnie](/omnie/).
+          - Luźne i ambitne wpisy o rynku znajdziesz tutaj [blog](/blog/).
+          - Jak chcesz poszukać na stronie czegoś konkretnego wpisz tutaj [szukaj](/szukaj/).
+          - Chcesz się ze mną skontaktować? Śmiało, zapraszam poniżej.
 
   en:
     languageName: "English"
     weight: 2
-    title: PaperModEN
+    title: Borilab
     taxonomies:
       category: categories
       tag: tags
@@ -60,37 +69,27 @@ languages:
       main:
         - name: About
           url: about/
-        - name: Blog
-          url: archives/
           weight: 5
+        - name: Blog
+          url: blog/
+          weight: 5
+        - name: Search
+          url:  search/
+          weight: 2
         - name: Tags
-          url: tags
-          weight: 10
-        - name: Categories
-          url: categories/
-          weight: 10
-        - name: Series
-          url: series/
-          weight: 10
+          url: tags/
+          weight: 4
 #        - name: External
 #          url: "https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode"
-
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-#    params:
-#      languageAltTitle: English
-#      profileMode:
-#        enabled: true
-#        title: PaperMod
-#        imageUrl: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&h=200"
-#        imageTitle: ProfileMode image
-#        # imageWidth: 120
-#        # imageHeight: 120
-#        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-#        buttons:
-#          - name: Blog
-#            url: posts
-#          - name: Profile Mode
-#            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+    params:
+      description: "Borilab – financial laboratory."
+      homeInfoParams:
+        Title: "Borilab"
+        Content: |
+          Welcome to my financial lab. Find out more in [about](/about/).
+          - Check my [blog](/blog/) for market insights.
+          - Use [search](/search/) to find specific topics.
+          - Feel free to contact me.
 
 outputFormats:
   llms:
@@ -106,10 +105,10 @@ outputs:
     - JSON
     - llms
 
+# Wspólne parametry (takie same dla wszystkich języków)
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  author: Borys Palacz
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -130,7 +129,7 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
+    title: Borilab
     imageUrl: "#"
     imageTitle: my image
     # imageWidth: 120
@@ -141,14 +140,6 @@ params:
       - name: Tags
         url: tags
 
-  homeInfoParams:
-    Title: "PaperMod's Demo"
-    Content: |
-      A clean, fast, and responsive Hugo theme built for a polished reading experience. [Read more..](/about/)
-      - Lightweight by design, with a modern layout that keeps your content front and center.
-      - Explore the [Docs (Wiki)](https://github.com/adityatelange/hugo-PaperMod/wiki/) to learn more about features and configuration.
-      - Support the project on [GitHub](https://github.com/adityatelange/hugo-PaperMod) and share it with others who love minimalistic designs.
-      - PaperMod is inspired by the [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3) theme.
   socialIcons:
     - name: github
       title: View Source on Github
