@@ -18,6 +18,15 @@
                 href="//localhost:1313/en/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/en/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -44,16 +53,22 @@
                 href="//localhost:1313/en/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/archives/</loc>
+    <loc>//localhost:1313/en/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/archives/"
+                href="//localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/archives/"
+                href="//localhost:1313/en/blog/"
                 />
   </url><url>
     <loc>//localhost:1313/en/categories/</loc>
@@ -69,16 +84,6 @@
                 />
   </url><url>
     <loc>//localhost:1313/en/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="//localhost:1313/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/search/"
-                />
   </url><url>
     <loc>//localhost:1313/en/series/</loc>
     <xhtml:link
@@ -90,18 +95,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/series/"
-                />
-  </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="//localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

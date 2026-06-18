@@ -14,5 +14,5 @@
 - [Markdown Lists](//localhost:1313/posts/inner-section/md-lists/)
 - [Sample Markdown Blog Post](//localhost:1313/posts/inner-section/md-blog/)
 
-### PaperMod
+### Borilab
 - [PaperMod Installation Guide](//localhost:1313/posts/papermod/papermod-installation/)

@@ -4,7 +4,7 @@ summary: List of all Icons supported by PaperMod
 date: 2021-01-20
 expiryDate: 2026-05-08
 aliases: ["/papermod-icons"]
-tags: ["PaperMod", "Docs"]
+tagi: ["PaperMod", "Docs"]
 author: ["Aditya Telange"]
 draft: true
 social:
