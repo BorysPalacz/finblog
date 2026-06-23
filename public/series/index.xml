@@ -12,19 +12,18 @@
     <generator>Hugo</generator>
     <language>pl</language>
     <copyright>Borys Palacz</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod</title>
       <link>//localhost:1313/series/papermod/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/series/papermod/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes Guide</title>
       <link>//localhost:1313/series/themes-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/series/themes-guide/</guid>
       <description></description>
     </item>

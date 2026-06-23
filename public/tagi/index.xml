@@ -12,34 +12,48 @@
     <generator>Hugo</generator>
     <language>pl</language>
     <copyright>Borys Palacz</copyright>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tagi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micron</title>
+      <link>//localhost:1313/tagi/micron/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tagi/micron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REIT, AGREE REALTY</title>
+      <link>//localhost:1313/tagi/reit-agree-realty/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tagi/reit-agree-realty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thyssenkrupp</title>
+      <link>//localhost:1313/tagi/thyssenkrupp/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tagi/thyssenkrupp/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Markdown</title>
       <link>//localhost:1313/tagi/markdown/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tagi/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
       <link>//localhost:1313/tagi/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tagi/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
       <link>//localhost:1313/tagi/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tagi/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>//localhost:1313/tagi/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tagi/emoji/</guid>
       <description></description>
     </item>
   </channel>

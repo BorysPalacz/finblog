@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thyssenkrupp on Borilab</title>
+    <link>//localhost:1313/tagi/thyssenkrupp/</link>
+    <description>Recent content in Thyssenkrupp on Borilab</description>
+    <image>
+      <title>Borilab</title>
+      <url>//localhost:1313/images/papermod-cover.png</url>
+      <link>//localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <copyright>Borys Palacz</copyright>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tagi/thyssenkrupp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thyssenkrupp (TKA) - zagranie na cyklu przemysłowym</title>
+      <link>//localhost:1313/posts/thyssenkrupp/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/thyssenkrupp/</guid>
+      <description>&lt;h2 id=&#34;-podsumowanie-transakcji&#34;&gt;📊 Podsumowanie transakcji&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spółka:&lt;/strong&gt; Thyssenkrupp AG&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zakup:&lt;/strong&gt; 25.07.2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sprzedaż:&lt;/strong&gt; 03.03.2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Horyzont:&lt;/strong&gt; max 2 lata - nieoczekiwanie tylko 7 miesięcy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Średnia estymacja:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Buy: &lt;strong&gt;~4.6 EUR&lt;/strong&gt; sprawdzic!&lt;/li&gt;
+&lt;li&gt;Sell: &lt;strong&gt;~9.0 EUR&lt;/strong&gt; sprawdzic!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-wynik&#34;&gt;📈 Wynik&lt;/h2&gt;
+&lt;p&gt;ROI ≈ +95% sprawdzic!&lt;/p&gt;
+&lt;p&gt;👉 w ~7 miesięcy - target zrealizowny szybciej niż zakładałem&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-teza-inwestycyjna&#34;&gt;🧠 Teza inwestycyjna&lt;/h2&gt;
+&lt;p&gt;Pozycja w Thyssenkrupp została otwarta w lipcu 2024 roku, w momencie gdy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sektor przemysłowy znajdował się w relatywnej słabości&lt;/li&gt;
+&lt;li&gt;sentyment wobec europejskich spółek cyklicznych był niski&lt;/li&gt;
+&lt;li&gt;spółka była postrzegana jako problematyczna strukturalnie&lt;/li&gt;
+&lt;li&gt;spółka wydawała się całkeim tania wskaźnikowo&lt;/li&gt;
+&lt;li&gt;sentyment wokół spółki był tak kiepski, że aż interesujący&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Założenie było proste:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

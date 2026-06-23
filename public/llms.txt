@@ -2,17 +2,7 @@
 - [O mnie](//localhost:1313/omnie/)
 
 ## Posts
-- [Markdown Syntax Guide](//localhost:1313/posts/markdown-syntax/)
-- [Code Syntax Guide](//localhost:1313/posts/code_syntax/)
-- [Audio and Video](//localhost:1313/posts/audio-video/)
-- [Rich Content and Shortcodes](//localhost:1313/posts/rich-content/)
-- [Math Typesetting](//localhost:1313/posts/math-typesetting/)
-- [Emoji Support](//localhost:1313/posts/emoji-support/)
-
-### Inner Section
-- [Markdown Headings](//localhost:1313/posts/inner-section/md-headings/)
-- [Markdown Lists](//localhost:1313/posts/inner-section/md-lists/)
-- [Sample Markdown Blog Post](//localhost:1313/posts/inner-section/md-blog/)
-
-### Borilab
-- [PaperMod Installation Guide](//localhost:1313/posts/papermod/papermod-installation/)
+- [Agree Realty (ADC) - defensywna pozycja w środowisku wysokich stóp](//localhost:1313/posts/reit/)
+- [Micron Technology (MU) - półprzewodnikowe szaleństwo](//localhost:1313/posts/micron/)
+- [Snapchat (SNAP) – lekcja z inwestycyjnej porażki](//localhost:1313/posts/snap/)
+- [Thyssenkrupp (TKA) - zagranie na cyklu przemysłowym](//localhost:1313/posts/thyssenkrupp/)

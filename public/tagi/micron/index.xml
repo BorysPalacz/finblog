@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Micron on Borilab</title>
+    <link>//localhost:1313/tagi/micron/</link>
+    <description>Recent content in Micron on Borilab</description>
+    <image>
+      <title>Borilab</title>
+      <url>//localhost:1313/images/papermod-cover.png</url>
+      <link>//localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <copyright>Borys Palacz</copyright>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tagi/micron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micron Technology (MU) - półprzewodnikowe szaleństwo</title>
+      <link>//localhost:1313/posts/micron/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/micron/</guid>
+      <description>&lt;h2 id=&#34;-podsumowanie-transakcji&#34;&gt;📊 Podsumowanie transakcji&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spółka:&lt;/strong&gt; Micron Technology (MU)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zakupy:&lt;/strong&gt; 10.06.2022 i 07.03.2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sprzedaż:&lt;/strong&gt; 25.10.2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Horyzont:&lt;/strong&gt; max 3 lata&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Szacunkowe poziomy cen (kurs zamknięcia):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Buy: ~65 USD   sprawdzic&lt;/li&gt;
+&lt;li&gt;Sell: ~98 USD  sprzwdzic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 Średnia cena zakupu:
+~60 USD spr&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-wynik&#34;&gt;📈 Wynik&lt;/h2&gt;
+&lt;p&gt;ROI ≈ +60% spr&lt;/p&gt;
+&lt;p&gt;👉 CAGR:&lt;/p&gt;
+&lt;p&gt;~21% rocznie&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-teza-inwestycyjna&#34;&gt;🧠 Teza inwestycyjna&lt;/h2&gt;
+&lt;p&gt;Pozycja w Micron została zbudowana w okresie wyraźnej słabości sektora półprzewodników, szczególnie w segmencie pamięci (DRAM/NAND).&lt;/p&gt;
+&lt;p&gt;Założenie było cykliczne:&lt;/p&gt;
+&lt;p&gt;biznes MU jest ekstremalnie cykliczny
+ceny pamięci podlegają silnym wahaniom
+rynek często nadmiernie wycenia zarówno szczyty, jak i dołki&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Snapchat (SNAP) – lekcja z inwestycyjnej porażki</title>
+      <link>//localhost:1313/posts/snap/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/snap/</guid>
+      <description>&lt;h2 id=&#34;-podsumowanie-transakcji&#34;&gt;📊 Podsumowanie transakcji&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spółka:&lt;/strong&gt; Snap Inc. (SNAP)  sprawdzic!!!!!!!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zakup 1:&lt;/strong&gt; 31.05.2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zakup 2:&lt;/strong&gt; 20.07.2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sprzedaż:&lt;/strong&gt; 12.12.2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Horyzont:&lt;/strong&gt; ~3.5 roku&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Szacunkowe poziomy cen (kurs zamknięcia):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Buy 1: ~16 USD&lt;/li&gt;
+&lt;li&gt;Buy 2: ~15 USD&lt;/li&gt;
+&lt;li&gt;Sell: ~12 USD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 Średnia cena zakupu:&lt;/p&gt;
+&lt;p&gt;~15.2 USD&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-wynik&#34;&gt;📉 Wynik&lt;/h2&gt;
+&lt;p&gt;ROI ≈ −20%&lt;/p&gt;
+&lt;p&gt;👉 w ~3.5 roku&lt;/p&gt;
+&lt;p&gt;👉 realny koszt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;zamrożony kapitał&lt;/li&gt;
+&lt;li&gt;utracona alternatywa (opportunity cost)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-teza-inwestycyjna&#34;&gt;🧠 Teza inwestycyjna&lt;/h2&gt;
+&lt;p&gt;Pierwotna decyzja inwestycyjna była oparta na klasycznym podejściu do growth:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
