@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Series on Borilab</title>
+    <title>Series on Borilab - Finansowe Laboratorium</title>
     <link>//localhost:1313/series/</link>
-    <description>Recent content in Series on Borilab</description>
+    <description>Recent content in Series on Borilab - Finansowe Laboratorium</description>
     <image>
-      <title>Borilab</title>
+      <title>Borilab - Finansowe Laboratorium</title>
       <url>//localhost:1313/images/papermod-cover.png</url>
       <link>//localhost:1313/images/papermod-cover.png</link>
     </image>
@@ -13,19 +13,5 @@
     <language>pl</language>
     <copyright>Borys Palacz</copyright>
     <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PaperMod</title>
-      <link>//localhost:1313/series/papermod/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/series/papermod/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes Guide</title>
-      <link>//localhost:1313/series/themes-guide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/series/themes-guide/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

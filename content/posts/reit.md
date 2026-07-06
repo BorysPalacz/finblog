@@ -1,8 +1,8 @@
 ---
 author: "Borys Palacz"
 title: "Agree Realty (ADC) - defensywna pozycja w środowisku wysokich stóp"
-date: "2025-09-15"
-tagi: ["REIT, Agree Realty"]
+date: "2026-05-09"
+tagi: ["REIT", "Agree Realty"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---
@@ -17,26 +17,25 @@ ShowBreadCrumbs: false
 
 Szacunkowe poziomy cen (kurs zamknięcia):
 
-- Buy 1: ~61 USD  sprawdzic!!
-- Buy 2: ~57 USD  sprawdzic!!
-- Sell: ~70 USD  
+- Buy 1: ~59,7 USD
+- Buy 2: ~56,5 USD
+- Sell: ~80 USD  
 
 👉 Średnia cena zakupu:
-~58 USD sprawdzic!!!
+~58 USD
 
 ---
 
-## 📈 Wynik
+## 📈 Wynik - bez dywidend
 
 
-ROI ≈ +20–22%
+ROI ≈ 37% bez dywidend
 
 👉 w ~2.5 roku  
 
 👉 CAGR:
 
-
-~8% rocznie
+~13% rocznie
 
 👉 dodatkowo:
 

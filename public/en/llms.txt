@@ -1,5 +1,8 @@
-# Borilab
-- [About](//localhost:1313/en/about/)
+# Borilab – Financial Laboratory
+- [About me](//localhost:1313/en/about/)
 
 ## Posts
-- [Markdown Syntax Guide For RTL](//localhost:1313/en/posts/markdown-syntax/)
+- [General Mills (GIS) – A Story of Believing in the Rebound](//localhost:1313/en/posts/general/)
+- [Agree Realty (ADC) – A Defensive Position in a High-Interest-Rate Environment](//localhost:1313/en/posts/reit/)
+- [Snapchat (SNAP) – A Lesson from an Investment Failure](//localhost:1313/en/posts/snap/)
+- [Thyssenkrupp (TKA) – An Industrial Cycle Play](//localhost:1313/en/posts/thyssenkrupp/)

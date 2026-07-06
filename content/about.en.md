@@ -1,122 +1,50 @@
 ---
-title: "About"
+title: "About me"
 date: 2026-05-09T12:00:00+05:30
-description: "."
+# description: "."
 author: ["Borys Palacz"]
 draft: false
 hiddenInRss: true
 disableShare: true
 ShowBreadcrumbs: false
+ShowToc: false
 ---
 
-# SPAM 💥
+# A Few Words 💥
 
----
-
-
-> Based on [hugo-paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3), with additional features and customization options.
-
-<table>
-	<tbody>
-		<tr>
-			<td>PaperMod at Hugo Themes</td>
-			<td><a href="https://themes.gohugo.io/themes/hugo-papermod/">PaperMod@themes.gohugo.io</a></td>
-		</tr>
-		<tr>
-			<td>Minimum Hugo Version</td>
-			<td><a href="https://github.com/gohugoio/hugo/releases/tag/v0.146.0">Hugo v0.146.0+</a></td>
-		</tr>
-		<tr>
-			<td>Discord Community</td>
-			<td><a href="https://discord.gg/ahpmTvhVmp">Join Discord to chat with the community</a></td>
-		</tr>
-        <tr>
-			<td>Github Discussion</td>
-			<td><a href="https://github.com/adityatelange/hugo-PaperMod/discussions">Join Discussions on Github</a></td>
-		</tr>
-		<tr>
-			<td>Live Demo</td>
-			<td><a href="https://adityatelange.github.io/hugo-PaperMod/">adityatelange.github.io/hugo-PaperMod</a></td>
-		</tr>
-		<tr>
-			<td>Documentation</td>
-			<td><a href="https://github.com/adityatelange/hugo-PaperMod/wiki">Github Wiki</a></td>
-		</tr>
-		<tr>
-			<td>Example Site Source</td>
-			<td><a href="https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite">exampleSite branch</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://www.star-history.com/adityatelange/hugo-papermod"><img src="https://api.star-history.com/badge?repo=adityatelange/hugo-PaperMod&amp;theme=dark" alt="Star History Rank" /></a></td>
-			<td><a href="https://ko-fi.com/H2H229ZWH"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a></td>
-		</tr>
-	</tbody>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/21258296/114303440-bfc0ae80-9aeb-11eb-8cfa-48a4bb385a6d.png" alt="Mockup image" title="Mockup"/>
-</p>
+Welcome to my "laboratory." By day, I work as a mechanical engineer, but after hours, I dive deep into the financial world. My posts are mostly about my market struggles, though sometimes you'll find something completely out-of-the-box. In 2026, I temporarily stepped away from the markets to allocate capital toward housing. As a beneficiary of the post-COVID bull run, I decided to put some of those gains toward my financial education. In May 2026, I achieved my first milestone on this financial journey and became a licensed Securities Broker (KNF license no. 3967). I don't disclose what's currently in my portfolio or in what quantities. Most posts focus on fast market moves and things that are already history.
 
 ---
 
-## Features 💥
+# How Did I End Up in Finance? 💥
 
-`☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive`
-
-- **Asset pipeline** -- Hugo's built-in asset generator with fingerprinting, bundling, and minification.
-- **Three layout modes** -- [Regular](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#regular-mode-default-mode), [Home-Info](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode), and [Profile](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode).
-- **Light and dark themes** -- Automatic switching based on browser preference, plus a manual toggle.
-- **Multilingual support** -- Includes a built-in language selector.
-- **Search** -- Client-side search powered by Fuse.js.
-- **SEO optimized** -- Open Graph, Twitter Cards, and Schema.org structured data out of the box.
-- **Cover images** -- Per-post cover images with responsive image support.
-- **Table of contents** -- Auto-generated from heading structure.
-- **Multiple authors** -- Native support for multi-author sites.
-- **Social icons and share buttons** -- Configurable social links and per-post sharing.
-- **Breadcrumb navigation**
-- **Post archives and taxonomies**
-- **Code block copy buttons** -- One-click copying with Chroma syntax highlighting.
-- **Related post suggestions**
-- **Zero JS build dependencies** -- No webpack, Node.js, or other tooling required.
-
-| Topic                                                                                             | Description                                     |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| **[Installation guide](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)**        | Detailed installation and update instructions   |
-| **[Features wiki page](https://github.com/adityatelange/hugo-PaperMod/wiki/Features)**            | In-depth explanations of all features           |
-| **[FAQ wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs)**                          | Common questions and configuration walkthroughs |
-| **[Icons wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/Icons)**                       | Documentation for social icons and share icons  |
-| **[Variables wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/Variables)**               | List of all available template variables        |
-| **[Overiding templates](https://github.com/adityatelange/hugo-PaperMod/wiki/Template_Overrides)** | Guide to customizing templates without forking  |
-| **[Releases](https://github.com/adityatelange/hugo-PaperMod/releases)**                           | Detailed history of releases                    |
+Honestly, I just didn't know what to do with my excess cash. I didn't want my savings to sit idle in a checking account or a low-yield deposit. Around 2020, I stumbled upon (thanks to a recommendation, I think) my first finance podcasts, YouTube videos, and books. I started buying stocks seriously in 2022, feeling it was a good time for the next 3-5 years. By 2024, I had practically zero cash and 100% of my capital in financial assets. That was also when I started opening financial reports, reading, analyzing, and making more informed investment decisions. In 2025, I read more and more, dove deep into reports, and also became fascinated by the mechanics of order execution and the liquidity of financial assets. I've always been interested in business structures, taxation, and entrepreneurship. When I came across the body of knowledge required for the broker exam, I immediately knew it was tailored for me at that moment. Studying was pure joy, and at the first opportunity, I passed the exam.
 
 ---
 
-## Performance ☄️
+# What's Next? 💥
 
-PaperMod consistently scores near-perfect results on [Pagespeed Insights](https://pagespeed.web.dev/report?url=https://adityatelange.github.io/hugo-PaperMod/).
-
-<img width="481" height="116" alt="image" src="https://github.com/user-attachments/assets/497d831b-d143-4a46-bc11-b1d7f8ef4a83" />
+2026 is a year of milestones — my first apartment, the broker exam. Right now, I'm out of the market, watching and waiting for opportunities because they're always there — we just don't always see them. I'm documenting my observations here. If space and capital allow for further growth in the future, maybe an international exam like the CFA or CIIA.
 
 ---
 
-## Support 🫶
+# Life Beyond Finance 💥
 
-- Star this repository to show your support.
-- Share PaperMod with others who might find it useful.
-- Sponsor the project on [GitHub Sponsors](https://github.com/sponsors/adityatelange) or [Ko-Fi](https://ko-fi.com/adityatelange).
+A mechanical engineer from birth. My alma mater is the beloved Poznań University of Technology. Over 10 years of solid experience in industry. Working in this field is a pleasure, though I'm far from being a workaholic. Over the years, I've worked on various projects — the one I'm most proud of is the TAWA electric scooter, built in my garage from Polish steel and Chinese electronics. A bit of a geek — I sometimes code, mostly with the help of AI. I love open-source solutions and have been using Ubuntu on my laptop for 15 years. I help my wife grow her ceramic business. I enjoy growing vegetables at our ROD garden and hiking in the mountains. As for sports, currently just the gym — used to play tennis.
 
 ---
 
-## Special Thanks 🌟
-
-- [Highlight.js](https://github.com/highlightjs/highlight.js)
-- [Fuse.js](https://github.com/krisk/fuse)
-- [Feather Icons](https://github.com/feathericons/feather)
-- [Simple Icons](https://github.com/simple-icons/simple-icons)
-- All contributors and supporters
+# Links & Highlights 💥
+- Printable HTML CV [Pagespeed Insights](https://google.com/)
+- Mechanical portfolio — password-protected, available upon request [Pagespeed Insights](https://google.com/)
+- The story of the TAWA electric scooter [Pagespeed Insights](https://google.com/)
+- The best ceramics in the world — my wife's website [Pagespeed Insights](https://google.com/)
+- MPW certificate from KNF [Pagespeed Insights](https://google.com/)
 
 ---
 
-## Stargazers 📈
-
-[![Stargazers over time](https://starchart.cc/adityatelange/hugo-PaperMod.svg?background=%23ffffff00&axis=%23858585&line=%236b63ff)](https://starchart.cc/adityatelange/hugo-PaperMod)
+# Legal Disclaimer
+The author holds an investment advisory license. However, all content published on this site is for general informational and educational purposes only.
+Published materials do not constitute personalized investment advice or recommendations under applicable law, as they do not take into account any individual's financial situation, investment objectives, or risk profile.
+All investment decisions are made at the reader's own risk. For personalized investment advice, a direct consultation with a licensed investment advisor is recommended.
+The author makes every effort to ensure the accuracy of the materials but accepts no liability for decisions made based on them.

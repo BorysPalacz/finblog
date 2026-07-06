@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thyssenkrupp on Borilab</title>
+    <title>Thyssenkrupp on Borilab - Finansowe Laboratorium</title>
     <link>//localhost:1313/tagi/thyssenkrupp/</link>
-    <description>Recent content in Thyssenkrupp on Borilab</description>
+    <description>Recent content in Thyssenkrupp on Borilab - Finansowe Laboratorium</description>
     <image>
-      <title>Borilab</title>
+      <title>Borilab - Finansowe Laboratorium</title>
       <url>//localhost:1313/images/papermod-cover.png</url>
       <link>//localhost:1313/images/papermod-cover.png</link>
     </image>
@@ -15,7 +15,7 @@
     <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tagi/thyssenkrupp/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thyssenkrupp (TKA) - zagranie na cyklu przemysłowym</title>
+      <title>Thyssenkrupp (TKA) - inwestycja na cyklu przemysłowym</title>
       <link>//localhost:1313/posts/thyssenkrupp/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/thyssenkrupp/</guid>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,14 +15,27 @@
                 href="//localhost:1313/"
                 />
   </url><url>
-    <loc>//localhost:1313/omnie/</loc>
-    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
+    <loc>//localhost:1313/tagi/general-mills/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/inner-section/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/general/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/general/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tagi/gis/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,8 +47,33 @@
                 href="//localhost:1313/posts/"
                 />
   </url><url>
+    <loc>//localhost:1313/tagi/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/omnie/</loc>
+    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tagi/agree-realty/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/reit/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/reit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/reit/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tagi/reit/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/inner-section/</loc>
+    <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tagi/micron/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
@@ -43,20 +81,40 @@
     <loc>//localhost:1313/posts/micron/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tagi/reit-agree-realty/</loc>
+    <loc>//localhost:1313/posts/micron-md/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tagi/snap/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/snap/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tagi/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/snap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/snap/"
+                />
   </url><url>
     <loc>//localhost:1313/tagi/thyssenkrupp/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/thyssenkrupp/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/thyssenkrupp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/thyssenkrupp/"
+                />
   </url><url>
     <loc>//localhost:1313/blog/</loc>
     <xhtml:link
@@ -84,12 +142,6 @@
                 href="//localhost:1313/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/tagi/markdown/</loc>
-  </url><url>
-    <loc>//localhost:1313/series/papermod/</loc>
-  </url><url>
-    <loc>//localhost:1313/tagi/privacy/</loc>
-  </url><url>
     <loc>//localhost:1313/szukaj/</loc>
   </url><url>
     <loc>//localhost:1313/series/</loc>
@@ -103,13 +155,5 @@
                 hreflang="pl"
                 href="//localhost:1313/series/"
                 />
-  </url><url>
-    <loc>//localhost:1313/tagi/shortcodes/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/syntax/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/themes/</loc>
-  </url><url>
-    <loc>//localhost:1313/series/themes-guide/</loc>
   </url>
 </urlset>

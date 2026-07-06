@@ -1,6 +1,6 @@
 ---
 author: "Borys Palacz"
-title: "Thyssenkrupp (TKA) - zagranie na cyklu przemysłowym"
+title: "Thyssenkrupp (TKA) - inwestycja na cyklu przemysłowym"
 date: "2025-09-15"
 tagi: ["Thyssenkrupp"]
 ShowToc: false
@@ -16,14 +16,14 @@ ShowBreadCrumbs: false
 
  Średnia estymacja:
 
-- Buy: **~4.6 EUR** sprawdzic!
-- Sell: **~9.0 EUR** sprawdzic!
+- Buy: **3,71 EUR**
+- Sell: **8,8 EUR**
 
 ---
 
 ## 📈 Wynik
 
-ROI ≈ +95% sprawdzic!
+ROI ≈ +137%
 
 👉 w ~7 miesięcy - target zrealizowny szybciej niż zakładałem
 

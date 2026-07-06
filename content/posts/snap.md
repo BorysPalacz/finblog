@@ -2,7 +2,7 @@
 author: "Borys Palacz"
 title: "Snapchat (SNAP) – lekcja z inwestycyjnej porażki"
 date: "2025-09-15"
-tagi: ["Micron"]
+tagi: ["SNAP"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---
@@ -17,20 +17,20 @@ ShowBreadCrumbs: false
 
 Szacunkowe poziomy cen (kurs zamknięcia):
 
-- Buy 1: ~16 USD  
-- Buy 2: ~15 USD  
-- Sell: ~12 USD  
+- Buy 1: ~14,5 USD  
+- Buy 2: ~10 USD  
+- Sell: ~7,5 USD  
 
 👉 Średnia cena zakupu:
 
-~15.2 USD
+~13 USD
 
 ---
 
 ## 📉 Wynik
 
 
-ROI ≈ −20%
+ROI ≈ −40%
 
 👉 w ~3.5 roku  
 

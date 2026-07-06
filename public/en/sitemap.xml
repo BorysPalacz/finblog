@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/about/</loc>
-    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
-  </url><url>
     <loc>//localhost:1313/en/</loc>
-    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -18,20 +15,27 @@
                 href="//localhost:1313/en/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/en/tags/general-mills/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/en/posts/general/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/general/"
+                />
   </url><url>
-    <loc>//localhost:1313/en/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/en/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/en/tags/gis/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/en/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -44,10 +48,61 @@
                 />
   </url><url>
     <loc>//localhost:1313/en/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/en/about/</loc>
+    <lastmod>2026-05-09T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/agree-realty/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/posts/reit/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/reit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/reit/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/reit/</loc>
+    <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/snap/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/posts/snap/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/snap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/snap/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/thyssenkrupp/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/posts/thyssenkrupp/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/thyssenkrupp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/thyssenkrupp/"
+                />
   </url><url>
     <loc>//localhost:1313/en/blog/</loc>
     <xhtml:link

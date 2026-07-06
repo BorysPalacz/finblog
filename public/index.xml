@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Borilab</title>
+    <title>Borilab - Finansowe Laboratorium</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Borilab</description>
+    <description>Recent content on Borilab - Finansowe Laboratorium</description>
     <image>
-      <title>Borilab</title>
+      <title>Borilab - Finansowe Laboratorium</title>
       <url>//localhost:1313/images/papermod-cover.png</url>
       <link>//localhost:1313/images/papermod-cover.png</link>
     </image>
@@ -117,7 +117,7 @@ rynek często nadmiernie wycenia zarówno szczyty, jak i dołki&lt;/p&gt;</descr
 &lt;p&gt;Pierwotna decyzja inwestycyjna była oparta na klasycznym podejściu do growth:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Thyssenkrupp (TKA) - zagranie na cyklu przemysłowym</title>
+      <title>Thyssenkrupp (TKA) - inwestycja na cyklu przemysłowym</title>
       <link>//localhost:1313/posts/thyssenkrupp/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/thyssenkrupp/</guid>

@@ -16,21 +16,18 @@ ShowBreadCrumbs: false
 
 Szacunkowe poziomy cen (kurs zamknięcia):
 
-- Buy: ~65 USD   sprawdzic
-- Sell: ~98 USD  sprzwdzic
-
-👉 Średnia cena zakupu:
-~60 USD spr
+- Buy: ~58 USD
+- Sell: ~108,5 USD
 
 ---
 
 ## 📈 Wynik
 
-ROI ≈ +60% spr
+ROI ≈ 87%
 
 👉 CAGR:
 
-~21% rocznie
+~28% rocznie
 
 ---
 
@@ -115,7 +112,7 @@ repricing do wyższych oczekiwań
 
 ### ✅ 2️⃣ Risk/Reward
 
-Po wzroście ~60%:
+Po wzroście ~80%:
 
 asymetria przestała być atrakcyjna
 
