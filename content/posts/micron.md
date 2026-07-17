@@ -1,171 +1,80 @@
 ---
 author: "Borys Palacz"
 title: "Micron Technology (MU) - półprzewodnikowe szaleństwo"
-date: "2025-09-15"
+date: "2024-11-15"
 tagi: ["Micron"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-## 📊 Podsumowanie transakcji
+## Zarys transakcji
 
-- **Spółka:** Micron Technology (MU)  
-- **Zakupy:** 10.06.2022 i 07.03.2023
-- **Sprzedaż:** 25.10.2024  
-- **Horyzont:** max 3 lata  
-
-Szacunkowe poziomy cen (kurs zamknięcia):
-
-- Buy: ~58 USD
-- Sell: ~108,5 USD
+- **Kupno 1:** 10.06.2022 po ~58 USD  
+- **Kupno 2:** 07.03.2023 po ~58 USD (dokupienie)  
+- **Sprzedaż:** 25.10.2024 po ~108,5 USD  
+- **Średnia cena:** ~58 USD  
+- **ROI:** ~87% w ~2,5 roku  
+- **CAGR:** ~28% rocznie
 
 ---
 
-## 📈 Wynik
+## Mój punkt wejścia
 
-ROI ≈ 87%
+Micron to czysta gra pod cykl pamięci (DRAM/NAND). W 2022 roku sektor był w czarnej dupie – spadający popyt na komputery i smartfony, nadpodaż, ceny pamięci w dół, nastroje fatalne. Wiedziałem, że to nie koniec świata, tylko faza cyklu.
 
-👉 CAGR:
+Pierwszy raz wszedłem w czerwcu 2022 – trochę za wcześnie, ale to świadoma decyzja. Drugi raz w marcu 2023, gdy nastroje były jeszcze gorsze, a kurs nie odbiegał znacząco od pierwszej ceny. Dzięki temu uśredniłem ryzyko i poprawiłem pozycję wyjściową.
 
-~28% rocznie
-
----
-
-## 🧠 Teza inwestycyjna
-
-Pozycja w Micron została zbudowana w okresie wyraźnej słabości sektora półprzewodników, szczególnie w segmencie pamięci (DRAM/NAND).
-
-Założenie było cykliczne:
-
-biznes MU jest ekstremalnie cykliczny
-ceny pamięci podlegają silnym wahaniom
-rynek często nadmiernie wycenia zarówno szczyty, jak i dołki
-
-
-Celem było wejście w fazie depresji sentymentu i utrzymanie pozycji do momentu poprawy.
+Teza: rynek pamięci jest cykliczny. Boomy i krachy powtarzają się jak w zegarku. W dołkach wszyscy płaczą, w szczytach wszyscy kochają. Chciałem kupić płacz a sprzedać miłość.
 
 ---
 
-## 📉 Dlaczego kupiłem
+## Jak to się rozegrało
 
-### ✅ 1️⃣ Cykliczność pamięci
+Rok 2023 był nudny, ale spokojny. Sektor stopniowo odbijał od dna. Prawdziwy przypływ przyszedł w 2024 – rynek półprzewodników ożył, do tego doszło AI, które podbiło zainteresowanie pamięcią i infrastrukturą. Sentymencie zmienił się z negatywnego na mocno pozytywny.
 
-Micron jest silnie uzależniony od:
-
-- cen DRAM  
-- cen NAND  
-- popytu na elektronikę  
-
-👉 co prowadzi do bardzo przewidywalnego schematu:
-
-
-boom → oversupply → crash → recovery
+Kurs wystrzelił. Moje założenie o odbiciu cyklu sprawdziło się w punkt.
 
 ---
 
-### ✅ 2️⃣ Słabość sektora (2022–2023)
+## Decyzja o wyjściu
 
-W momencie zakupu:
+Sprzedałem w październiku 2024, bo wycena przestała być atrakcyjna. Po wzroście ~80–90% dalszy potencjał zrobił się ograniczony, a ryzyko korekty realne. W dodatku sentyment był już wyraźnie pozytywny, co oznaczało, że większość dobrych informacji została zdyskontowana.
 
-- spadał popyt na komputery i smartfony  
-- ceny pamięci spadały  
-- nastroje były negatywne  
+Inwestycja miała być czysto cykliczna – nie strukturalna. Kupujesz na dołku, czekasz na odbicie, sprzedajesz przy normalizacji. Scenariusz wykonany, po co ryzykować dalej.
 
 ---
 
-### ✅ 3️⃣ Budowanie pozycji w czasie (DCA)
+## Co mi wyszło
 
-Zamiast jednego wejścia:
+- Wybór cyklu – pamięci mają w miarę powtarzalną dynamikę.
+- Dwie transze zamiast jednej – uśredniło mi ryzyko timingowe.
+- Cierpliwość – nie panikowałem w marcu 2023, gdy kurs był blisko dna.
+- Wykorzystanie sentymentu – wszedłem, gdy wszyscy pluli na spółkę.
 
-2022: wczesne wejście 
-2023: dokupienie bliżej dołka
+## Gdzie mógłbym lepiej
 
-👉 efekt:
-
-- poprawa średniej ceny  
-- redukcja ryzyka timingowego  
-
----
-
-## 📊 Co działo się w trakcie
-
-W 2023 i 2024 roku:
-
-- sektor półprzewodników zaczął się odbudowywać  
-- poprawiły się perspektywy popytu  
-- AI zwiększyło zainteresowanie pamięcią i infrastrukturą  
-
-👉 rynek zaczął:
-
-repricing do wyższych oczekiwań
+- Częściowa realizacja zamiast całkowitego wyjścia – zawsze można zostawić jakąś resztkę na nieprzewidziane.
+- Większy sizing w dołku – gdy miałem pewność, że cykl się odwraca, mogłem dołożyć agresywniej.
 
 ---
 
-## 💰 Dlaczego sprzedałem
+## Wnioski
 
-### ✅ 1️⃣ Normalizacja wyceny
+Półprzewodniki, zwłaszcza pamięci, to dziki zachód. DCA w dołkach działa, jeśli nie boisz się chwilowego bólu. Najważniejsze to nie zakochać się w spółce – kiedy cykl się kończy, wychodzisz, nawet jeśli wydaje się, że „jeszcze pójdzie”.
 
-- spółka przeszła z fazy „underpricing” do „fair value / optimism”  
-- sentyment znacząco się poprawił  
-
----
-
-### ✅ 2️⃣ Risk/Reward
-
-Po wzroście ~80%:
-
-asymetria przestała być atrakcyjna
+**Kup dołek, sprzedaj odbicie.** Proste, ale trzeba mieć spokój, żeby kupić, gdy wszyscy uciekają.
 
 ---
 
-### ✅ 3️⃣ Charakter inwestycji
+## Update lipiec 2026
 
-To była:
+Aż nie wierzę, że ta niepozorna spółka stoi na czele obecnej hossy (może bańki) AI. Nie pomyślałbym, że tak może wystrzelić. Tamta stopa zwrotu mnie satysfakcjonowała obecnie pozycja byłaby większa o 1500%. Absurd nie do wyobrażenia.
 
-> **pozycja cykliczna, nie strukturalna**
+Nie ma co rozpamiętywać - redukowałem wtedy ryzyko swojego portfela i zdecydowałem się całkowicie uciąc pozycję. Wzrost przychodów był niewspółmierny do wyceny. To jakie szaleństwo się obecnie dzieje na tej pozycji to nie mogę zrozumieć. W ten forward P/E nie ma co wierzyć jak hyperscalery już nie mają kasy...
 
-czyli:
+Poniżej 2 wykresy pierwszy seksi w zakresie, który kupowałem. Kolejny w całym spektrum dzisiejszej wyceny. No cóż zobaczymy jak to się wszytsko skończy - podejrzewam, że kiepsko dla nieświadomych akcjonariuszy, którzy kupili >500. 
 
-
-kup dołek → sprzedaj odbicie
-
----
-
-## 🧠 Co poszło dobrze
-
-- trafienie w cykl ✅  
-- budowanie pozycji w czasie ✅  
-- cierpliwość ✅  
-- wykorzystanie sentymentu ✅  
-
----
-
-## ⚠️ Co mogło być lepsze
-
-- częściowa realizacja zamiast pełnego wyjścia  
-- większa ekspozycja w dołku (agresywniejszy sizing)  
-
----
-
-## 🔥 Kluczowe wnioski
-
-półprzewodniki (szczególnie memory) są ekstremalnie cykliczne
-najlepsze okazje pojawiają się przy pesymizmie
-DCA działa bardzo dobrze w cyklicznych sektorach
-ważniejsze niż timing jest właściwe pozycjonowanie
-
----
-
-## 📊 Podsumowanie
-
-Transakcja była klasycznym przykładem:
-
-buy crisis → hold recovery → sell normalization
-
-👉 pokazując:
-
-- znaczenie cyklu  
-- rolę cierpliwości  
-- przewagę podejścia strukturalnego nad timingiem  
+![](/images/mu1.png)
+![](/images/mu2.png)
 
 ---

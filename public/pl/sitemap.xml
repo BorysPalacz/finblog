@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,28 @@
                 hreflang="pl"
                 href="//localhost:1313/"
                 />
+  </url><url>
+    <loc>//localhost:1313/tagi/podsumowanie/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/podsumowanie/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tagi/</loc>
+    <lastmod>2026-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tagi/general-mills/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
@@ -30,25 +52,6 @@
                 hreflang="pl"
                 href="//localhost:1313/posts/general/"
                 />
-  </url><url>
-    <loc>//localhost:1313/tagi/gis/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="//localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tagi/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/omnie/</loc>
     <lastmod>2026-05-09T12:00:00+05:30</lastmod>
@@ -75,20 +78,11 @@
     <loc>//localhost:1313/posts/inner-section/</loc>
     <lastmod>2026-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tagi/micron/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/micron/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/micron-md/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tagi/snap/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/snap/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -114,6 +108,22 @@
                 rel="alternate"
                 hreflang="pl"
                 href="//localhost:1313/posts/thyssenkrupp/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tagi/micron/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/micron/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/micron/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/micron/"
                 />
   </url><url>
     <loc>//localhost:1313/blog/</loc>

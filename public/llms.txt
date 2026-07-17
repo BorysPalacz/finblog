@@ -2,9 +2,9 @@
 - [O mnie](//localhost:1313/omnie/)
 
 ## Posts
-- [General Mills (GIS) – historia wiary w odbicie](//localhost:1313/posts/general/)
+- [Podsumowanie portfela](//localhost:1313/posts/podsumowanie/)
+- [General Mills (GIS) – jedzonko wydaje się tanie ?!](//localhost:1313/posts/general/)
 - [Agree Realty (ADC) - defensywna pozycja w środowisku wysokich stóp](//localhost:1313/posts/reit/)
+- [Snapchat (SNAP) – lekcja i kubeł zimnej wody](//localhost:1313/posts/snap/)
+- [Thyssenkrupp (TKA) – przemysł EU nie taki straszny](//localhost:1313/posts/thyssenkrupp/)
 - [Micron Technology (MU) - półprzewodnikowe szaleństwo](//localhost:1313/posts/micron/)
-- [Micron Technology (MU) – Semiconductor Mania](//localhost:1313/posts/micron-md/)
-- [Snapchat (SNAP) – lekcja z inwestycyjnej porażki](//localhost:1313/posts/snap/)
-- [Thyssenkrupp (TKA) - inwestycja na cyklu przemysłowym](//localhost:1313/posts/thyssenkrupp/)

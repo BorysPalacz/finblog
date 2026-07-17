@@ -1,202 +1,64 @@
 ---
 author: "Borys Palacz"
-title: "Snapchat (SNAP) – lekcja z inwestycyjnej porażki"
-date: "2025-09-15"
+title: "Snapchat (SNAP) – lekcja i kubeł zimnej wody"
+date: "2025-12-25"
 tagi: ["SNAP"]
 ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-## 📊 Podsumowanie transakcji
+## Transakcja
 
-- **Spółka:** Snap Inc. (SNAP)  sprawdzic!!!!!!!
-- **Zakup 1:** 31.05.2022  
-- **Zakup 2:** 20.07.2022  
-- **Sprzedaż:** 12.12.2025  
-- **Horyzont:** ~3.5 roku  
-
-Szacunkowe poziomy cen (kurs zamknięcia):
-
-- Buy 1: ~14,5 USD  
-- Buy 2: ~10 USD  
-- Sell: ~7,5 USD  
-
-👉 Średnia cena zakupu:
-
-~13 USD
+- **Kupno 1:** 31.05.2022 po **~14,5 USD**  
+- **Kupno 2:** 20.07.2022 po **~10 USD**  
+- **Sprzedaż:** 12.12.2025 po **~7,5 USD**  
+- **Średnia cena zakupu:** **~13 USD**  
+- **ROI:** **–40%** w ~3,5 roku  
 
 ---
 
-## 📉 Wynik
+## Po co wchodziłem
 
+W 2022 roku Snap wyglądał jak typowa wzrostowa opowieść: rosnąca liczba użytkowników, reklama cyfrowa na fali, młoda grupa docelowa. Wierzyłem, że monetyzacja w końcu ruszy, a rentowność się poprawi.
 
-ROI ≈ −40%
-
-👉 w ~3.5 roku  
-
-👉 realny koszt:
-
-- zamrożony kapitał  
-- utracona alternatywa (opportunity cost)  
+Z perspektywy to był klasyczny „buy the story” – narracja była przekonująca, ale fundamenty - dramat.
 
 ---
 
-## 🧠 Teza inwestycyjna
+## Co poszło nie tak
 
-Pierwotna decyzja inwestycyjna była oparta na klasycznym podejściu do growth:
+Po pierwsze: makro. 2022 to rok podwyżek stóp i odpływu kapitału z technologii. Wyceny growthowych spółek spadały jak ścięte. Mój timing był tragiczny – wchodziłem w trend spadkowy, nie w dołek.
 
-wzrost liczby użytkowników
-rosnący rynek reklamy cyfrowej
-potencjał monetyzacji w długim terminie
+Po drugie: konkurencja. Meta i TikTok zjadały Snapa na każdym froncie – użytkownicy, budżety reklamodawców, uwaga. Snap nie miał wystarczającej przewagi, żeby się obronić.
 
-Dodatkowo:
-
-- Snap był postrzegany jako platforma rosnąca wśród młodszych użytkowników  
-- Istniało przekonanie, że z czasem będzie w stanie poprawić rentowność  
+Po trzecie: sam biznes okazał się kruchy. Wyniki finansowe były niestabilne, zależne od cyklu reklamowego, bez trwałej marży. Przez kilka lat nie było żadnego wyraźnego przełomu.
 
 ---
 
-## 📉 Dlaczego kupiłem (i gdzie był błąd)
+## Dlaczego dopiero teraz sprzedałem
 
-### ✅ 1️⃣ Narracja growth
+Głównie przez upór i wiarę, że „w końcu odbije”. Trzymałem za długo, licząc na cud. Zamiast ciąć stratę po pierwszym roku, czekałem aż kurs wróci do okolic 10–12 USD. Nie wrócił.
 
-Spółka wpisywała się w schemat:
-users → engagement → monetization → growth
+Podjąłem decyzję, gdy zrozumiałem, że:
 
-👉 problem:
-- narracja była silna, ale fundamenty słabsze  
-
----
-
-### ⚠️ 2️⃣ Zmiana reżimu rynkowego
-
-Zakupy miały miejsce w 2022 roku, czyli w momencie:
-
-- gwałtownych podwyżek stóp procentowych  
-- spadku wycen spółek technologicznych  
-- odpływu kapitału z growth  
+- teza inwestycyjna się nie sprawdziła,
+- kapitał jest zamrożony na marne,
+- lepsze okazje są gdzie indziej,
+- spółka jeszcze latami może mieć taką wycenę,
 
 ---
 
-### ⚠️ 3️⃣ Niedoszacowanie konkurencji
+## Czego się nauczyłem
 
-SNAP działa w bardzo trudnym środowisku:
-
-- Meta (Facebook/Instagram)  
-- TikTok  
-
-👉 efekty:
-
-presja na wzrost użytkowników
-presja na monetizację
-ograniczona przewaga konkurencyjna
+- Makro ma znaczenie – ignorowanie stóp procentowych i ogólnego klimatu to błąd podstawowy.
+- Narracja bez wyników nie wystarczy – popularność nie równa się trwałej przewadze.
+- Cięcie strat to nie porażka, tylko zarządzanie kapitałem. Powinienem zrobić to znacznie wcześniej.
+- Opportunity cost jest realny – te pieniądze mogły przez 3,5 roku pracować gdzie indziej.
 
 ---
 
-### ⚠️ 4️⃣ Słaba jakość biznesu
+## Podsumowując
 
-W trakcie inwestycji stało się jasne:
+Kupiłem historię, sprzedałem rzeczywistość. Inwestycja w SNAP była dla mnie drogą lekcją, że nawet tania spółka z potencjałem może być pułapką, jeśli brakuje jej przewagi konkurencyjnej i sprzyjającego makro.
 
-- niestabilne wyniki finansowe  
-- zależność od rynku reklamy  
-- brak trwałej przewagi  
-
-👉 co przełożyło się na:
-
-- brak długoterminowego momentum
-
----
-
-## 📊 Co działo się w trakcie
-
-W kolejnych latach:
-
-- rynek reklamy był zmienny  
-- wyniki spółki rozczarowywały  
-- sentyment pozostawał słaby  
-
-👉 kurs:
-
-nie odbił znacząco przez kilka lat
-
----
-
-## 💰 Dlaczego sprzedałem
-
-### ✅ 1️⃣ Brak poprawy tezy
-
-Po kilku latach:
-
-brak wyraźnego turnaround
-
----
-
-### ✅ 2️⃣ Realizacja straty
-
-Zamiast:
-
-"poczekam jeszcze"
-
-decyzja była:
-
-uwolnić kapitał
-
----
-
-### ✅ 3️⃣ Opportunity cost
-
-Kapitał mógł pracować lepiej:
-
-- w cyklicznych spółkach  
-- w bardziej przewidywalnych setupach  
-- w indeksach  
-
----
-
-## 🧠 Co poszło źle
-
-- wejście w spółkę growth bez przewagi jakościowej ✅  
-- ignorowanie makro (stopy procentowe) ✅  
-- przecenienie narracji ✅  
-- zbyt długie trzymanie ✅  
-
----
-
-## ⚠️ Co mogło być lepsze
-
-- szybsze cięcie strat  
-- mniejsza pozycja  
-- większy nacisk na fundamentals  
-
----
-
-## 🔥 Kluczowe wnioski
-
-
-
-growth bez zysków ma ograniczoną odporność w trudnym makro
-nie każda popularna spółka ma trwałą przewagę
-czas w pozycji ma znaczenie (opportunity cost)
-najważniejsze jest zarządzanie błędami
-
-
----
-
-## 📊 Podsumowanie
-
-Transakcja była przykładem:
-buy story → wait → no breakout → exit
-
-👉 pokazując:
-
-- znaczenie makro  
-- znaczenie jakości biznesu  
-- konieczność podejmowania trudnych decyzji  
-
----
-
-👉 lekcja:
-
-- nawet „tani growth” może być pułapką bez przewagi i bez sprzyjającego makro
-
----
+Spółka mimo wszytsko będzie w najbliżsych latach w moich obserwacjach. Ilość danych jakie gromadzą o użytkownikach jest szalona. Może się okazać, że dla kogoś te dane bedą miały wartość większą niż kiepska kapitalizacja spółki...

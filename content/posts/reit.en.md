@@ -7,174 +7,63 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-## 📊 Transaction Summary
 
-- **Company:** Agree Realty Corporation (ADC)  
-- **Buy 1:** Sep 13, 2023  
-- **Buy 2:** Apr 4, 2024  
-- **Sell:** Apr 20, 2026  
-- **Horizon:** max 3 years  
+## Transaction
 
-Estimated price levels (closing price):
-
-- Buy 1: ~59,7 USD
-- Buy 2: ~56,5 USD
-- Sell: ~80 USD  
-
-👉 Average purchase price:
-~$58 USD
+- **Buy 1:** Sep 13, 2023 at **~$59.7**  
+- **Buy 2:** Apr 4, 2024 at **~$56.5**  
+- **Sell:** Apr 20, 2026 at **~$80**  
+- **Average purchase price:** **~$58**  
+- **ROI (excl. dividends):** **~37%** over ~2.5 years  
+- **CAGR:** **~13%** annually  
+- **Additionally:** monthly dividends
 
 ---
 
-## 📈 Result - excluded dividends
+## Why I Entered
 
-- ROI ≈ 37%  
-- Over ~2.5 years  
-- CAGR: ~13% annually  
+In 2023, REITs were under immense pressure. Interest rates in the U.S. were climbing, the market was pricing in a "higher for longer" scenario, and the entire sector was underweighted and avoided. Agree Realty in particular – despite being a solid, defensive company with long-term leases and high-quality tenants (e.g., Walmart) – got caught up in the broad sell-off.
 
-👉 On top of that:
+The assumption was simple:
 
-- regular **monthly dividends (REIT)** 
-- total return higher than the price return alone  
+- interest rates would eventually stabilize or start falling,
+- REITs would recover part of their losses,
+- in the meantime, dividends would reward patience.
 
----
-
-## 🧠 Investment Thesis
-
-The position in Agree Realty was built during a period of high interest rates in the U.S., when the REIT sector was under significant pressure.
-
-The assumption was:
-
-- REIT valuations were crushed by high rates
-- the market was pricing in a "higher for longer" scenario
-- in the long run, rates wouldn't stay at peak levels
-
-The goal was to capture:
-
-👉 **REIT appreciation + income (dividends)**
+I scaled in with two tranches. I wanted to average down and increase exposure when sentiment was at its worst.
 
 ---
 
-## 📉 Why I Bought
+### What Happened
 
-### ✅ 1️⃣ Interest rate pressure
+In 2024–2025, the market gradually rebuilt confidence in REITs. Interest rates stabilized, and capital began rotating back into defensive sectors. Valuations normalized, ADC's price moved higher, and the monthly dividends regularly fed my account for further purchases.
 
-REITs were among the most beaten-down sectors because:
-
-- higher rates = higher cost of capital  
-- higher rates = competition from bonds  
-
-👉 The result:
-
-- the sector was structurally underweighted
+The whole thing took slightly less time than I had assumed (I was aiming for ~3 years, closed after ~2.5 years).
 
 ---
 
-### ✅ 2️⃣ Company quality
+## Why I Sold
 
-Agree Realty:
+Not because the REIT had turned bad. Simply:
 
-- defensive net-lease model  
-- stable cash flows  
-- high-quality tenants – e.g., Walmart
+- the valuation had returned to levels I considered fair,
+- the upside after a ~37% gain had become limited,
+- I decided it was better to free up capital and look for the next opportunity.
 
-👉 This meant:
-
-lower fundamental risk than the average REIT
+This position was defensive-opportunistic by design: buy the dip → collect dividends → sell on normalization. The scenario played out, case closed.
 
 ---
 
-### ✅ 3️⃣ Dividends
+## What Went Great
 
-The REIT offered:
-
-a stable yield in a difficult environment
-
-👉 Which allowed me to:
-
-- "wait out" the rebound  
-- generate returns even without price movement  
+- Entry at peak REIT sentiment bottom – rates high, everyone selling.
+- Dividends as a buffer – even when the price stalled, something was flowing in.
+- Two tranches instead of one – the second half at a lower price improved the average.
 
 ---
 
-### ✅ 4️⃣ Scaling in over time
+## Summary
 
-- 2023: entry during peak market stress
-- 2024: added to the position on further weakness
+REITs operate on a relatively simple mechanism: they get cheaper when rates rise, and more expensive when rates fall or stabilize. Agree Realty was further strengthened by the quality of its assets and its stable business model. This investment showed that it pays to be patient, collect dividends, and not be afraid to buy more when everyone else is fleeing.
 
-👉 The result:
-
-- improved average entry price  
-- increased exposure at low sentiment levels  
-
----
-
-## 📊 What Happened Along the Way
-
-In 2024–2025:
-
-- interest rates stabilized  
-- sentiment toward REITs improved  
-- capital rotated back into defensive sectors  
-
-👉 The market began:
-
-repricing toward higher valuations
-
----
-
-## 💰 Why I Sold
-
-### ✅ 1️⃣ Valuation normalization
-
-- the sector partially recovered its losses  
-- valuations were no longer compelling  
-
----
-
-### ✅ 2️⃣ Risk/Reward
-
-After the rebound:
-
-- upside became limited
-- the risk of stagnation / a correction increased
-
----
-
-### ✅ 3️⃣ The nature of the trade
-
-This position was:
-
-> **defensive and opportunistic**
-
-which means:
-
-buy the dip → collect dividends → sell on normalization
-
----
-
-## 🧠 What Went Well
-
-- entry at peak interest-rate pressure ✅  
-- using dividends as a buffer ✅  
-- improving REIT sentiment ✅  
-
----
-
-## ⚠️ What Could Have Been Better
-
-- holding longer to ride out the full rate cycle  
-- taking partial profits instead of a full exit  
-
-👉 But:
-
-- REITs rarely deliver explosive multi-year price moves like growth stocks do
-
----
-
-## 🔥 Key Takeaways
-
-- REITs are heavily dependent on the interest rate cycle
-- the best entry points come when rates are high and sentiment is poor
-- dividends are a meaningful part of total return
-- defensive positions improve overall portfolio stability
+All in all – solid, calm, and highly predictable.

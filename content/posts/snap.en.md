@@ -7,191 +7,58 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-## 📊 Transaction Summary
+## Transaction
 
-- **Company:** Snap Inc. (SNAP) **[to be checked]**
-- **Buy 1:** May 31, 2022  
-- **Buy 2:** Jul 20, 2022  
-- **Sell:** Dec 12, 2025  
-- **Horizon:** ~3.5 years  
-
-Estimated price levels (closing price):
-
-- Buy 1: ~$14.5  
-- Buy 2: ~$10  
-- Sell: ~$7.5  
-
-👉 Average purchase price:
-
-~$13
+- **Buy 1:** May 31, 2022 at **~$14.5**  
+- **Buy 2:** Jul 20, 2022 at **~$10**  
+- **Sell:** Dec 12, 2025 at **~$7.5**  
+- **Average purchase price:** **~$13**  
+- **ROI:** **–40%** over ~3.5 years  
 
 ---
 
-## 📉 Result
+## Why I Entered
 
-ROI ≈ −40%
+In 2022, Snap looked like a typical growth story: rising user numbers, digital advertising riding a wave, a young target demographic. I believed that monetization would eventually kick in and profitability would improve.
 
-👉 Over ~3.5 years  
-
-👉 Real cost:
-
-- capital locked up  
-- lost opportunity cost  
+In hindsight, this was a classic "buy the story" trade – the narrative was compelling, but the fundamentals were a disaster.
 
 ---
 
-## 🧠 Investment Thesis
+## What Went Wrong
 
-The initial investment decision was based on a classic growth approach:
+First: macro. 2022 was the year of rate hikes and capital flight from tech. Growth stock valuations were getting crushed. My timing was terrible – I was buying into a downtrend, not a bottom.
 
-- user growth
-- growing digital advertising market
-- long-term monetization potential
+Second: competition. Meta and TikTok were eating Snap's lunch on every front – users, ad budgets, attention. Snap didn't have a strong enough moat to defend itself.
 
-Additionally:
-
-- Snap was perceived as a platform growing among younger users  
-- There was a belief that over time it would be able to improve profitability  
+Third: the business itself turned out to be fragile. Financial results were unstable, dependent on the advertising cycle, with no sustainable margins. For years, there was no clear breakthrough.
 
 ---
 
-## 📉 Why I Bought (and Where the Mistake Was)
+## Why I Only Sold Now
 
-### ✅ 1️⃣ The growth narrative
+Mostly due to stubbornness and the belief that "it will rebound eventually." I held on too long, hoping for a miracle. Instead of cutting my loss after the first year, I waited for the stock to return to the $10–12 range. It never did.
 
-The company fit the pattern:
-users → engagement → monetization → growth
+I made the decision when I realized that:
 
-👉 The problem:
-- the narrative was strong, but the fundamentals were weaker  
-
----
-
-### ⚠️ 2️⃣ Change in the market regime
-
-The purchases were made in 2022, at a time of:
-
-- aggressive interest rate hikes  
-- plunging tech stock valuations  
-- capital flight from growth stocks  
+- the investment thesis had failed,
+- the capital was locked up to no avail,
+- better opportunities existed elsewhere,
+- the company could trade at this valuation for years to come.
 
 ---
 
-### ⚠️ 3️⃣ Underestimating the competition
+## What I Learned
 
-SNAP operates in a very tough environment:
-
-- Meta (Facebook/Instagram)  
-- TikTok  
-
-👉 The effects:
-
-- pressure on user growth
-- pressure on monetization
-- limited competitive advantage
+- Macro matters – ignoring interest rates and the broader climate is a fundamental mistake.
+- Narrative without results isn't enough – popularity doesn't equal a sustainable competitive advantage.
+- Cutting losses isn't a failure – it's capital management. I should have done it much sooner.
+- Opportunity cost is real – that money could have been working elsewhere for 3.5 years.
 
 ---
 
-### ⚠️ 4️⃣ Weak business quality
+## Summary
 
-Over the course of the investment, it became clear:
+I bought the story, I sold the reality. The SNAP investment was a tough lesson that even a cheap company with potential can be a trap if it lacks a competitive moat and a supportive macro environment.
 
-- unstable financial results  
-- dependence on the advertising market  
-- lack of a sustainable moat  
-
-👉 Which translated into:
-
-- no long-term momentum
-
----
-
-## 📊 What Happened Along the Way
-
-In the following years:
-
-- the advertising market was volatile  
-- the company's results disappointed  
-- sentiment remained weak  
-
-👉 The price:
-
-did not meaningfully recover for several years
-
----
-
-## 💰 Why I Sold
-
-### ✅ 1️⃣ Thesis didn't improve
-
-After several years:
-
-no clear turnaround in sight
-
----
-
-### ✅ 2️⃣ Taking the loss
-
-Instead of:
-
-"I'll wait a little longer"
-
-the decision was:
-
-free up the capital
-
----
-
-### ✅ 3️⃣ Opportunity cost
-
-The capital could have been working better:
-
-- in cyclical stocks  
-- in more predictable setups  
-- in index funds  
-
----
-
-## 🧠 What Went Wrong
-
-- entering a growth stock without a quality edge ✅  
-- ignoring the macro environment (interest rates) ✅  
-- overestimating the narrative ✅  
-- holding for too long ✅  
-
----
-
-## ⚠️ What Could Have Been Better
-
-- cutting losses sooner  
-- taking a smaller position  
-- placing greater emphasis on fundamentals  
-
----
-
-## 🔥 Key Takeaways
-
-- growth without profits has limited resilience in a tough macro environment
-- not every popular company has a sustainable moat
-- time in a position matters (opportunity cost)
-- managing mistakes is the most important skill
-
----
-
-## 📊 Summary
-
-This trade was an example of:
-
-buy story → wait → no breakout → exit
-
-👉 demonstrating:
-
-- the importance of macro  
-- the importance of business quality  
-- the necessity of making tough decisions  
-
----
-
-👉 The lesson:
-
-- even "cheap growth" can be a trap without a moat and without a supportive macro environment
+That said, the company will remain on my watchlist in the coming years. The amount of data they gather on users is insane. It may turn out that for someone, that data will be worth more than the company's mediocre market cap...

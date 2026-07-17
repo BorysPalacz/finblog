@@ -31,9 +31,6 @@
                 href="//localhost:1313/en/posts/general/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/gis/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/en/posts/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -71,6 +68,22 @@
   </url><url>
     <loc>//localhost:1313/en/tags/reit/</loc>
     <lastmod>2026-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/tags/micron/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/posts/micron/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="//localhost:1313/posts/micron/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/micron/"
+                />
   </url><url>
     <loc>//localhost:1313/en/tags/snap/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>

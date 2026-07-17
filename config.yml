@@ -53,8 +53,8 @@ languages:
       homeInfoParams:
         Content: |
           Cześć, jestem Borys i zapraszam Cię do mojego finansowego "laboratorium", więcej info znajdziesz w zakładce [o mnie](/omnie/).
-          - Luźne i ambitne wpisy o rynku znajdziesz tutaj [blog](/blog/).
-          - Jak chcesz poszukać na stronie czegoś konkretnego wpisz tutaj [szukaj](/szukaj/).
+          - Luźne i ambitne wpisy o walce z rynkiem znajdziesz tutaj [blog](/blog/). 
+          - Podsumowanie inwestycji znajdzesz w aktualizowanym poscie [podsumowanie](/blog/podsumowanie/).
           - Chcesz się ze mną skontaktować? Śmiało, zapraszam poniżej. <br><br>
 
   en:
@@ -87,7 +87,7 @@ languages:
         Content: |
           Hi, I'm Borys and I invite you to my financial "laboratory." You can find more info in the [about](/about/) section.
           - Check out my casual and ambitious market insights on the [blog](/blog/).
-          - If you're looking for something specific, use the [search](/search/).
+          - A summary of my investments is available in the regularly updated post: [summary](/blog/summary/).
           - Want to get in touch? Feel free to reach out below. <br><br>
           
 
@@ -145,7 +145,7 @@ params:
 #      url: "https://github.com/boryspalacz/"
     - name: email
       title: Send me an email
-      url: "mailto:boryspalacz@gmail.com"
+      url: "mailto:info@borilab.pl"
     - name: X
       title: Follow me on X
       url: "https://x.com/borilab"

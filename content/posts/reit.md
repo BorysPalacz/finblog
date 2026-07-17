@@ -7,178 +7,62 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-## 📊 Podsumowanie transakcji
+## Transakcja
 
-- **Spółka:** Agree Realty Corporation (ADC)  
-- **Zakup 1:** 13.09.2023  
-- **Zakup 2:** 04.04.2024  
-- **Sprzedaż:** 20.04.2026  
-- **Horyzont:** max 3 lata  
-
-Szacunkowe poziomy cen (kurs zamknięcia):
-
-- Buy 1: ~59,7 USD
-- Buy 2: ~56,5 USD
-- Sell: ~80 USD  
-
-👉 Średnia cena zakupu:
-~58 USD
+- **Kupno 1:** 13.09.2023 po **~59,7 USD**  
+- **Kupno 2:** 04.04.2024 po **~56,5 USD**  
+- **Sprzedaż:** 20.04.2026 po **~80 USD**  
+- **Średnia cena zakupu:** **~58 USD**  
+- **ROI (bez dywidend):** **~37%** w ~2,5 roku  
+- **CAGR:** **~13%** rocznie  
+- **Dodatkowo:** comiesięczne dywidendy
 
 ---
 
-## 📈 Wynik - bez dywidend
+## Po co wchodziłem
 
+W 2023 roku REIT-y były pod ogromną presją. Stopy procentowe w USA szły w górę, rynek wyceniał scenariusz "higher for longer", a cały sektor był niedoważony i omijany. Agree Realty w szczególności – mimo że to porządna, defensywna spółka z długimi umowami najmu i solidnymi najemcami (np. Walmart) – została wciągnięta w ogólną wyprzedaż.
 
-ROI ≈ 37% bez dywidend
+Założenie było proste:
 
-👉 w ~2.5 roku  
+- stopy procentowe w końcu się ustabilizują lub zaczną spadać,
+- REIT-y odrobią część strat,
+- w międzyczasie dywidendy będą wynagradzały cierpliwość.
 
-👉 CAGR:
-
-~13% rocznie
-
-👉 dodatkowo:
-
-- regularne **dywidendy co miesiąc(REIT)**  
-- łączny total return wyższy niż sam price return  
+Dokupowałem w dwóch transzach. Chciałem uśrednić cenę i zwiększyć ekspozycję, gdy sentyment był najgorszy.
 
 ---
 
-## 🧠 Teza inwestycyjna
+### Co się wydarzyło
 
-Pozycja w Agree Realty została zbudowana w okresie wysokich stóp procentowych w USA, gdy sektor REIT był pod presją.
+W latach 2024–2025 rynek stopniowo odbudowywał zaufanie do REIT-ów. Stopy procentowe wszedły w stabilizację, a kapitał zaczął wracać do defensywnych sektorów. Wyceny normalizowały się, kurs ADC poszedł w górę, a comiesięczne dywidendy regularnie zasilały konto na kolejne zakupy. 
 
-Założenie:
-
-wycena REIT-ów została zduszona przez wysokie stopy
-rynek wyceniał scenariusz „higher for longer”
-w dłuższym terminie stopy nie utrzymają się na najwyższych poziomach
-
-Celem było wykorzystanie:
-
-👉 **wzrost wartości REITU + income (dywidendy)**
+Całość trwała nieco krócej, niż zakładałem (celowałem w ~3 lata, zamknąłem po ~2,5 roku).
 
 ---
 
-## 📉 Dlaczego kupiłem
+## Dlaczego sprzedałem
 
-### ✅ 1️⃣ Presja stóp procentowych
+Nie dlatego, że REIT stał się zły. Po prostu:
 
-REIT-y były jednymi z najbardziej przecenionych sektorów, ponieważ:
+- wycena wróciła do poziomów, które uznałem za sprawiedliwe,
+- upside po wzroście ~37% zrobił się ograniczony,
+- uznałem, że lepiej uwolnić kapitał i szukać kolejnej okazji.
 
-- wyższe stopy = wyższy koszt kapitału  
-- wyższe stopy = konkurencja ze strony obligacji  
-
-👉 efekt:
-
-- sektor był strukturalnie niedoważony
+Pozycja była z założenia defensywno-oportunistyczna: kup przecenę → zbieraj dywidendy → sprzedaj przy normalizacji. Scenariusz się zrealizował, temat zamknięty.
 
 ---
 
-### ✅ 2️⃣ Jakość spółki
+## Co wyszło świetnie
 
-Agree Realty:
-
-- defensywny model (net lease)  
-- stabilne przepływy  
-- najemcy wysokiej jakości - np Wallmarkt
-
-👉 oznacza:
-
-niższe ryzyko fundamentalne niż przeciętny REIT
+- Wejście na dołku sentymentu dla REIT-ów – stopy wysoko, wszyscy sprzedawali.
+- Dywidendy jako bufor – nawet gdy kurs stał w miejscu, coś wpływało.
+- Dwie transze zamiast jednej – druga połowa po niższej cenie poprawiła średnią.
 
 ---
 
-### ✅ 3️⃣ Dywidendy
+## Podsumowując
 
-REIT oferował:
+REIT-y to stosunkowo prosty mechanizm: tanieją, gdy stopy rosną, drożeją, gdy stopy spadają lub się stabilizują. Agree Realty był dodatkowo wzmocniony jakością aktywów i stabilnym modelem biznesowym. Inwestycja pokazała, że warto być cierpliwym, zbierać dywidendy i nie bać się dokupować, gdy wszyscy uciekają.
 
-stabilny yield w trudnym środowisku
-
-👉 co pozwalało:
-
-- „czekać” na odbicie  
-- generować return nawet bez ruchu ceny  
-
----
-
-### ✅ 4️⃣ Budowanie pozycji w czasie
-
-2023: wejście przy wysokim stresie rynkowym
-2024: dokupienie przy dalszej słabości
-
-👉 efekt:
-- poprawiona średnia cena  
-- zwiększona ekspozycja przy niskim sentymencie  
-
----
-
-## 📊 Co działo się w trakcie
-
-W latach 2024–2025:
-- stabilizacja stóp procentowych  
-- poprawa sentymentu wobec REIT  
-- powrót kapitału do defensywnych sektorów  
-
-👉 rynek zaczął:
-repricing w kierunku wyższych wycen
-
----
-
-## 💰 Dlaczego sprzedałem
-
-### ✅ 1️⃣ Normalizacja wyceny
-
-- sektor częściowo odrobił straty  
-- wyceny przestały być atrakcyjne  
-
----
-
-### ✅ 2️⃣ Risk/Reward
-
-Po odbiciu:
-
-upside ograniczony
-ryzyko stagnacji / korekty rośnie
-
----
-
-### ✅ 3️⃣ Charakter inwestycji
-
-Pozycja była:
-
-> **defensywna i oportunistyczna**
-
-czyli:
-
-kup przecenę → zbierz dywidendy → sprzedaj normalizację
-
----
-
-## 🧠 Co poszło dobrze
-
-- wejście w moment maksymalnej presji stóp ✅  
-- wykorzystanie dywidendy jako „buffer” ✅  
-- poprawa sentymentu REIT ✅  
-
----
-
-## ⚠️ Co mogło być lepsze
-
-- dłuższe trzymanie dla pełnego cyklu stóp  
-- częściowa realizacja zamiast pełnego wyjścia  
-
-👉 ale:
-
-- REIT-y rzadko dają gwałtowne wieloletnie eksplozje cen jak spółki wzrostowe
-
----
-
-## 🔥 Kluczowe wnioski
-
-REIT-y są silnie zależne od cyklu stóp procentowych
-najlepsze wejścia pojawiają się przy wysokich stopach i złym sentymencie
-dywidenda jest istotną częścią całkowitego zwrotu
-defensywne pozycje poprawiają stabilność portfela
-
----
+Całość – konkretna, spokojna, bardzo przewidywalna.

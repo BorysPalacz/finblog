@@ -2,7 +2,8 @@
 - [About me](//localhost:1313/en/about/)
 
 ## Posts
-- [General Mills (GIS) – A Story of Believing in the Rebound](//localhost:1313/en/posts/general/)
+- [General Mills (GIS) – food is quite cheap ?!](//localhost:1313/en/posts/general/)
 - [Agree Realty (ADC) – A Defensive Position in a High-Interest-Rate Environment](//localhost:1313/en/posts/reit/)
+- [Micron Technology (MU) – semiconductor mania](//localhost:1313/en/posts/micron/)
 - [Snapchat (SNAP) – A Lesson from an Investment Failure](//localhost:1313/en/posts/snap/)
-- [Thyssenkrupp (TKA) – An Industrial Cycle Play](//localhost:1313/en/posts/thyssenkrupp/)
+- [Thyssenkrupp (TKA) – An Industrial cycle in EU](//localhost:1313/en/posts/thyssenkrupp/)

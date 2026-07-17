@@ -1,139 +1,28 @@
 ---
 author: "Borys Palacz"
-title: "Thyssenkrupp (TKA) – An Industrial Cycle Play"
+title: "Thyssenkrupp (TKA) – An Industrial cycle in EU"
 date: "2025-09-15"
 tags: ["Thyssenkrupp"]
 ShowToc: false
 ShowBreadCrumbs: false
----
-
-## 📊 Transaction Summary
-
-- **Company:** Thyssenkrupp AG  
-- **Buy:** Jul 25, 2024  
-- **Sell:** Mar 3, 2025  
-- **Horizon:** max 2 years – unexpectedly, just 7 months
-
-Average estimate:
-
-- Buy: **€3.71**
-- Sell: **€8.8**
 
 ---
 
-## 📈 Result
+**Buy:** Jul 25, 2024 at **~€3.71**  
+**Sell:** Mar 3, 2025 at **~€8.80**  
+**Horizon:** I assumed up to 2 years, exited after 7 months.  
+**ROI: +137%.**
 
-ROI ≈ +137%
+## Why I Bought?
 
-👉 In ~7 months – target achieved faster than I had assumed
+Thyssenkrupp was cheap, oversold, and hated in July 2024. The industrial sector was in the dumps, sentiment toward European cyclicals was terrible, and the company was surrounded by nothing but negative headlines – layoffs, strikes. I figured the bad news was already priced in, and the cycle had to turn eventually. The downside risk was limited, while the rebound potential was significant. Fundamentally, the company looked decent enough, and I knew the big players would start buying. The valuation was below its multi-year average.
 
+## Why I Sold?
+
+The market shifted its sentiment quickly – sooner than I had expected. The stock rallied several dozen percent in just a few months. The entire move I was banking on (the change in perception) had already played out. After a ~100% gain, the further upside became less compelling, and the risk of a correction grew. I closed the entire position. I pocketed the dividend and sold. I felt that everything interesting had already happened with this German "corpse."
+
+## Summary:  
+Enter in fear, exit on the rebound. It worked better than expected. I was aiming for 50%, maybe 70%. The timing this time was impeccable. The risk-to-reward ratio was insane. Hopefully, many more trades like this one.
+
+![](/images/krupp.png)
 ---
-
-## 🧠 Investment Thesis
-
-The position in Thyssenkrupp was opened in July 2024, at a time when:
-
-- the industrial sector was in relative weakness  
-- sentiment toward European cyclical stocks was low  
-- the company was seen as structurally problematic  
-- the stock looked quite cheap on a valuation basis  
-- sentiment around the company was so bad that it actually became interesting
-
-The assumption was simple:
-
-- the industrial cycle and the stock are near the bottom  
-- negative sentiment is already priced in  
-- a rebound is possible as market perception improves
-
----
-
-## 📉 Why I Bought
-
-### ✅ 1️⃣ Business cyclicality
-
-Thyssenkrupp operates in sectors that are highly dependent on the economic cycle:
-
-- steel
-- heavy industry  
-- infrastructure projects  
-- sharp declines → equally dynamic rebounds
-
----
-
-### ✅ 2️⃣ Market sentiment
-
-At the time of purchase:
-
-- no investor enthusiasm  
-- very low level of interest  
-- negative "narrative" around the company – layoffs, strikes
-
----
-
-### ✅ 3️⃣ Asymmetry
-
-The risk-reward profile was attractive:
-
-- downside: limited by the low valuation
-- upside: high if sentiment improved
-
----
-
-## 📊 What Happened Along the Way
-
-In the following months:
-
-- sentiment toward the industrial sector improved  
-- risk appetite in Europe increased  
-- investors began returning to cyclical stocks  
-
-👉 This translated into:
-
-- a rapid price increase  
-- a dynamic shift in perception
-
----
-
-## 💰 Why I Sold
-
-### ✅ 1️⃣ Scenario played out
-
-- a significant part of the move had already happened  
-- sentiment had shifted from negative to positive  
-
----
-
-### ✅ 2️⃣ Risk/Reward
-
-After a ~100% gain:
-
-- further upside potential diminished  
-- the risk of a correction increased – and I felt that everything that could happen with the stock had already happened
-
----
-
-## 🧠 What Went Well
-
-- entering during the low-sentiment phase ✅  
-- understanding the cycle ✅  
-- capitalizing on asymmetry ✅  
-
----
-
-## ⚠️ What Could Have Been Better
-
-- holding a partial position for longer  
-
----
-
-## 📊 Summary
-
-This trade was a classic example of:
-
-buy fear → sell recovery
-
-👉 demonstrating the importance of:
-
-- the economic cycle  
-- sentiment  
-- simple, repeatable patterns
