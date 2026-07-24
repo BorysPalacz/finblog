@@ -1,5 +1,5 @@
 ---
-title: "Search"
-placeholder: Search demo site with full text fuzzy search ...
+title: "Szukaj"
+placeholder: Prosta wyszukiwarka w postach - wersja beta działa średnio :)
 layout: "search"
 ---

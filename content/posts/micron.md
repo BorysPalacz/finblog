@@ -74,7 +74,7 @@ Nie ma co rozpamiętywać - redukowałem wtedy ryzyko swojego portfela i zdecydo
 
 Poniżej 2 wykresy pierwszy seksi w zakresie, który kupowałem. Kolejny w całym spektrum dzisiejszej wyceny. No cóż zobaczymy jak to się wszytsko skończy - podejrzewam, że kiepsko dla nieświadomych akcjonariuszy, którzy kupili >500. 
 
-![](/images/mu1.png)
-![](/images/mu2.png)
+![mu kiedys](/images/mu1.png)
+![mu dzis](/images/mu2.png)
 
 ---

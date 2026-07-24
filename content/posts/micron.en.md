@@ -75,7 +75,7 @@ No point dwelling on it – at the time, I was reducing portfolio risk and decid
 
 Below are two charts: the first shows the sexy range where I was buying. The second shows the full spectrum of today's valuation. Well, we'll see how this all ends – I suspect it won't end well for the unaware shareholders who bought above $500.
 
-![](/images/mu1.png)
-![](/images/mu2.png)
+![mu kiedys](/images/mu1.png)
+![mu dzis](/images/mu2.png)
 
 ---

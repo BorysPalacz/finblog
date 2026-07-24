@@ -24,5 +24,5 @@ Rynek szybko zmienił nastawienie - nadspodziewanie szybko. Kurs zrobił kilkadz
 ## Podsumowując:  
 Wejście w strachu, wyjście w odbiciu. Zadziałało aż nadto. Liczyłem na 50% może 70%. Timing tym razem wspaniały. Zysk do ryzyka szalony. Oby więcej takich ruchów.
 
-![](/images/krupp.png)
+![krupp na wykresie](/images/krupp.png)
 ---

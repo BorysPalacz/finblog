@@ -24,5 +24,5 @@ The market shifted its sentiment quickly – sooner than I had expected. The sto
 ## Summary:  
 Enter in fear, exit on the rebound. It worked better than expected. I was aiming for 50%, maybe 70%. The timing this time was impeccable. The risk-to-reward ratio was insane. Hopefully, many more trades like this one.
 
-![](/images/krupp.png)
+![krupp na wykresie](/images/krupp.png)
 ---

@@ -1,6 +1,6 @@
 ---
-#title: "Archive"
+title: "Wszystkie wpisy"
 layout: "archives"
-url: "/blog/"
+url: "/posts/"
 summary: archives
 ---

@@ -51,5 +51,5 @@ And that, in turn, is fantastic news for General Mills. When inflation starts to
 
 That is why I am not selling. Today, we play for the earnings. Tomorrow, we play for the consumer rebound. And General Mills is standing right at the center of that story.
 
-![](/images/GIS.png)
+![gis on the chart](/images/GIS.png)
 ---

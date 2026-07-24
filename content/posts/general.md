@@ -51,5 +51,5 @@ A to z kolei rewelacyjna wiadomość dla General Mills. Gdy inflacja zacznie ham
 
 Dlatego nie sprzedaję. Dziś gramy pod wyniki. Jutro gramy pod odbicie konsumenta. A General Mills stoi w samym centrum tej historii.  
 
-![](/images/GIS.png)
+![gis na wykresie](/images/GIS.png)
 ---
