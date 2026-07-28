@@ -21,7 +21,7 @@ pagination:
 languages:
   pl:
     languageName: "Polish"
-    title: "Borilab | moja walka z rynkiem kapitałowym"
+    title: "Borilab | rozkminy nad rynkiem kapitałowym"
     weight: 1
     taxonomies:
       category: categories
@@ -43,7 +43,7 @@ languages:
           weight: 3
 
     params:
-      description: "Borilab | moja walka z rynkiem kapitałowym"
+      description: "Borilab | rozkminy nad rynkiem kapitałowym"
       homeInfoParams:
         Content: |
           Rynki kapitałowe według Borysa. Rozkimny rynkowe, alokacja kapitału i realne transakcje <br>
@@ -55,7 +55,7 @@ languages:
   en:
     languageName: "English"
     weight: 2
-    title: "Borilab | my battle with the cap market"
+    title: "Borilab | my insights into the capital market"
     taxonomies:
       category: categories
       tag: tags
@@ -76,7 +76,7 @@ languages:
           weight: 3
 
     params:
-      description: "Borilab | my battle with the cap market"
+      description: "Borilab | my insights into the capital market"
       homeInfoParams:
         Content: |
           Capital markets by Borys. Market insights, capital allocation, and live transactions in US and European equities. Polish stockbroker license no. 3967.
